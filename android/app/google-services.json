@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22786741646",
+    "firebase_url": "https://amangaz-default-rtdb.firebaseio.com",
+    "project_id": "amangaz",
+    "storage_bucket": "amangaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22786741646:android:6675149a11981f810340df",
+        "android_client_info": {
+          "package_name": "com.example.ag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22786741646-h973gniql4udtfdpqg34ad2uu74dtsme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpllt5397XXJaDXOtnu8QR2VdVIoWMetM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22786741646-h973gniql4udtfdpqg34ad2uu74dtsme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
